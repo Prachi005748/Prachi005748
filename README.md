@@ -79,17 +79,12 @@
 ## 📬 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prachi-paliwal" target="_blank">
+  <a href="https://www.linkedin.com/in/prachi-paliwal-799126268/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   
   <a href="mailto:prachi@example.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://prachi-portfolio.web.app/" target="_blank">
-    <img src="https://img.icons8.com/external-prettycons-lineal-prettycons/49/000000/external-portfolio-essentials-prettycons-lineal-prettycons.png" 
-    alt="Portfolio" width="48"/>
   </a>&nbsp;&nbsp;
   
   <a href="https://github.com/Prachi005748" target="_blank">
