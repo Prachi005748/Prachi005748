@@ -1,15 +1,15 @@
 # Hi there, I'm **Prachi Paliwal** 👋  
 
-**🎯 Aspiring Data Analyst | 📊 B.Com (Honours) Graduate**  
+**🎯 Aspiring Data Analyst | 📊 3rd Year B.Com (Honours) Student**  
 
 ---
 
 ## 🌟 About Me  
 
-- 📚 Completed **B.Com (Honours)** with strong foundation in commerce and business analytics  
-- 🔍 Building expertise in **Data Analytics, SQL, Python, Power BI & Excel**  
-- 💡 Passionate about transforming **data into actionable insights** that support better decision-making  
-- 🚀 Exploring projects that combine **business knowledge with analytics** to deliver real-world impact  
+- 📚 Currently pursuing **3rd Year of B.Com (Honours)** with a strong interest in **Data Analytics & Business Intelligence**  
+- 🔍 Building expertise in **SQL, Python, Power BI & Excel** to analyze and visualize real-world data  
+- 💡 Passionate about transforming **raw data into actionable insights** that support better decision-making  
+- 🚀 Exploring projects that combine **commerce knowledge with analytics** to deliver practical impact  
 
 ---
 
@@ -82,7 +82,7 @@
   </a>&nbsp;&nbsp;
   
   <a href="https://prachi-portfolio.web.app/" target="_blank">
-    <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/external-portfolio-professional-avatar-itim2101-flat-itim2101.png" 
+    <img src="https://img.icons8.com/external-prettycons-lineal-prettycons/49/000000/external-portfolio-essentials-prettycons-lineal-prettycons.png" 
     alt="Portfolio" width="48"/>
   </a>&nbsp;&nbsp;
   
