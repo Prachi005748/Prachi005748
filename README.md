@@ -52,4 +52,10 @@
 
 ---
 
+## 📬 Contact  
+
+- *GitHub*: [Prachi005748](https://github.com/Prachi005748)  
+- *LinkedIn*: [Prachi Paliwal](https://www.linkedin.com/in/prachi-paliwal-799126268/)  
+
+
 Thanks for stopping by 👋
