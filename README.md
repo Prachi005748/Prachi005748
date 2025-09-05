@@ -6,56 +6,63 @@
 
 ##  About Me
 
--  Currently pursuing **B.Com (Honours)**, with a keen interest in **data analytics** and business intelligence.
--  Building strong analytical foundations in **SQL**, **Python**, **Power BI**, and **Excel**.
--  Passionate about leveraging data to uncover insights that drive smarter business decisions.
+- 📚 Currently pursuing **B.Com (Honours)**, with a passion for **data analytics** and business intelligence.  
+- 🔍 Actively building expertise in **SQL**, **Python**, **Power BI**, and **Excel**.  
+- 💡 Driven to transform data into actionable insights that shape smarter decisions.
+
+---
+
+## 🛠️ Skills & Tools
+
+| **Category**         | **Tools & Proficiencies**                                                                 |
+|----------------------|-------------------------------------------------------------------------------------------|
+| **Data Analytics & Visualization** | ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Modeling%20%26%20Visuals-blue) Power BI (Dashboards, DAX, Data Modeling)<br>![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables%20%26%20Power%20Query-green) Microsoft Excel (Pivot Tables, Charts, Advanced Formulas, Power Query)<br> Data Storytelling & Business Insights |
+| **Data Management**   | ![SQL](https://img.shields.io/badge/SQL-Database%20Queries-orange) SQL (Joins, CTEs, Window Functions, Subqueries)<br> Relational Databases (MySQL, PostgreSQL basics)<br> Data Cleaning & Preprocessing |
+| **Programming & Data Science** | ![Python](https://img.shields.io/badge/Python-Pandas%20%26%20EDA-yellow) Python (Pandas, NumPy, Matplotlib, Seaborn)<br> Exploratory Data Analysis (EDA)<br> Basic Statistics & Hypothesis Testing |
+| **Business & Analytical Thinking** | Forecasting & Trend Analysis<br> Problem Solving & Critical Thinking<br> Business Intelligence Reporting |
+
+---
+
+##  Portfolio
+
+Check out my portfolio to explore my projects and visual dashboards:   
+➡️ [Prachi’s Data Analytics Portfolio](https://prachi-portfolio.web.app/)
 
 ---
 
 ##  Projects & Experience
 
-### ⭐ Pinned Repositories
+### ⭐ Highlighted Repositories
 
 | Project | Description |
 |---------|-------------|
-| **HR-Analytics-Dashboard** | A Power BI dashboard for HR metrics (attrition, salary distribution, roles, etc.). |
-| **Mobile-Sales-Dashboards** | Interactive mobile sales insights dashboard featuring trends, ratings, payment methods, and location-wise distribution. |
-| **Spotify-SQL-Project** | SQL-based analysis project — insights into streaming patterns (assumed). |
-| **Algonive Sales Data Analysis & Forecasting** | Internship project analyzing historical sales data and forecasting revenue trends. |
-| **CODING-SAMURAI-INTERNSHIP-TASK** | End-to-end Power BI dashboards developed during business analytics internship. |
-| **Exploring-NumPy** | A Jupyter Notebook series exploring arrays, broadcasting, indexing, and numerical operations with NumPy. |
-
-*(Feel free to add more project details or new repositories as you go!)*
+| **HR-Analytics-Dashboard** | Power BI dashboard showcasing HR metrics like attrition, salary distribution, and employee roles. |
+| **Mobile-Sales-Dashboards** | Interactive mobile sales insights dashboard with trends, ratings, payment breakdowns, and geographic data. |
+| **Spotify-SQL-Project** | SQL-driven analysis providing insights into music streaming behaviors. |
+| **Algonive Sales Data Analysis & Forecasting** | Internship project to analyze historical sales and forecast future trends. |
+| **CODING-SAMURAI-INTERNSHIP-TASK** | Business analytics internship work featuring end-to-end Power BI dashboards. |
+| **Exploring-NumPy** | Jupyter Notebook series covering NumPy basics—arrays, indexing, broadcasting, and calculations. |
 
 ---
 
-##  Skills
+##  Connect with Me
 
-- **Programming & Analysis:** Python, SQL, NumPy  
-- **Business Intelligence:** Power BI, Excel  
-- **Concepts:** Data visualization, forecasting, analytics, data preprocessing
-
----
-
-##  Getting in Touch
-
-- Let’s connect over LinkedIn: *(insert your LinkedIn link)*  
-- Want to collaborate? Visit the repositories above or drop me a message here on GitHub.
+- 💼 LinkedIn: *(insert your LinkedIn link)*  
+- 📧 Email: *(insert your email if comfortable)*  
 
 ---
 
 ##  What I’m Working On
 
-- Deepening my Power BI skills to build even more interactive dashboards.  
-- Practicing advanced SQL queries and Python data manipulation workflows.  
-- Combining my commerce background with data skills for real-world business insights.
+- Building **advanced Power BI dashboards** with DAX and data drill-down features  
+- Enhancing **SQL query performance and optimization**  
+- Merging my background in commerce with analytics to deliver business-relevant insights  
 
 ---
 
-## 📬 Contact  
+> **“Turning raw data into meaningful insights that drive smarter decisions.”**
 
-- *GitHub*: [Prachi005748](https://github.com/Prachi005748)  
-- *LinkedIn*: [Prachi Paliwal](https://www.linkedin.com/in/prachi-paliwal-799126268/)  
+---
 
-
-Thanks for stopping by 👋
+ *Need help customizing anything further? Happy to help—just ask!*
+::contentReference[oaicite:0]{index=0}
