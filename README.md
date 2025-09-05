@@ -60,31 +60,30 @@
 ## 🌐 Portfolio  
 
 ➡️ [Prachi’s Data Analytics Portfolio](https://prachi-portfolio.web.app/)  
+  
+  <a href="https://prachi-portfolio.web.app/" target="_blank">
+    <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/external-portfolio-professional-avatar-itim2101-flat-itim2101.png" 
+    alt="Portfolio" width="48"/>
+  </a>&nbsp;&nbsp;
+  
 
 ---
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prachi005748&theme=tokyonight" alt="Streak Stats" />
-</p>  
+## 📬 Connect with Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prachi005748&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>  
+  <a href="https://www.linkedin.com/in/prachi-paliwal" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="mailto:prachi@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Prachi005748" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+  </a>
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi005748&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
-
----
-
-## 🤝 Connect with Me  
-
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
-- 📧 Email: [your-email@example.com](#)  
-
----
+--
 
 ✨ **“Turning raw data into meaningful insights that drive smarter decisions.”**  
 
