@@ -52,6 +52,12 @@
 
 ➡️ [Prachi’s Data Analytics Portfolio](https://prachi-portfolio.web.app/)  
 
+<p align="center">
+  <a href="https://prachi-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio Badge">
+  </a>
+</p>
+
 ---
 
 ## 📈 GitHub Stats  
