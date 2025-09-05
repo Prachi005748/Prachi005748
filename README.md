@@ -1,6 +1,6 @@
-# Hi there, I'm **Prachi Paliwal** 👋  
+<h1 align="center">Hi there, I'm **Prachi Paliwal** 👋</h1>  
 
-**🎯 Aspiring Data Analyst | 📊 3rd Year B.Com (Honours) Student**  
+<h1 align="center">🎯 Aspiring Data Analyst | 📊 3rd Year B.Com (Honours) Student</h1>
 
 ---
 
