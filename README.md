@@ -12,16 +12,45 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools  
 
-| **Category**         | **Tools & Proficiencies**                                                                 |
-|----------------------|-------------------------------------------------------------------------------------------|
-| **Data Analytics & Visualization** | ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Modeling%20%26%20Visuals-blue) Power BI (Dashboards, DAX, Data Modeling)<br>![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables%20%26%20Power%20Query-green) Microsoft Excel (Pivot Tables, Charts, Advanced Formulas, Power Query)<br> Data Storytelling & Business Insights |
-| **Data Management**   | ![SQL](https://img.shields.io/badge/SQL-Database%20Queries-orange) SQL (Joins, CTEs, Window Functions, Subqueries)<br> Relational Databases (MySQL, PostgreSQL basics)<br> Data Cleaning & Preprocessing |
-| **Programming & Data Science** | ![Python](https://img.shields.io/badge/Python-Pandas%20%26%20EDA-yellow) Python (Pandas, NumPy, Matplotlib, Seaborn)<br> Exploratory Data Analysis (EDA)<br> Basic Statistics & Hypothesis Testing |
-| **Business & Analytical Thinking** | Forecasting & Trend Analysis<br> Problem Solving & Critical Thinking<br> Business Intelligence Reporting |
+<p align="center">
+
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
+
+  <!-- Visualization -->
+  <img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" alt="Power BI" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="60" height="60"/>&nbsp;
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
+
+</p>
 
 ---
+
+### 📊 Data Analytics & Visualization  
+- Power BI (Dashboards, DAX, Data Modeling)  
+- Excel (Pivot Tables, Charts, Power Query)  
+- Data Storytelling & Business Insights  
+
+### 🗄️ Data Management  
+- SQL (Joins, CTEs, Window Functions, Subqueries)  
+- MySQL, PostgreSQL  
+- Data Cleaning & Preprocessing  
+
+### 🐍 Programming & Data Science  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Exploratory Data Analysis (EDA)  
+- Statistics & Hypothesis Testing  
 
 ##  Portfolio
 
