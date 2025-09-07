@@ -83,7 +83,7 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   
-  <a href="mailto:prachi@example.com">
+  <a href="mailto:prachipaliwal745@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
   </a>&nbsp;&nbsp;
   
