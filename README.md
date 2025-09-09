@@ -60,6 +60,19 @@
 
 ---
 
+## 📄 Resume  
+
+You can view and download my resume here:  
+
+<p align="center">
+  <a href="https://drive.google.com/YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-critical?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+
+---
+
 ## 📈 GitHub Stats  
 
 <p align="center">
